@@ -1,0 +1,26 @@
+[
+	{
+		"author": "NorSwap",
+		"id": "norswap",
+		"title": "NorSwap",
+		"logo": "https://nordekscan.com/static/NSWAP.png",
+		"categories": ["DeFi"],
+		"shortDescription": "The most popular AMM on NRK by user count! Earn NSWAP through yield farming or win it in the Lottery, then stake it in Syrup Pools to earn more tokens! Initial Farm Offerings (new token launch model pioneered by NorSwap), NFTs, and more, on a platform you can trust.",
+		"site": "https://norswap.io/",
+		"external": true,
+		"description": "The most popular AMM on NRK by user count! Earn NSWAP through yield farming or win it in the Lottery, then stake it in Syrup Pools to earn more tokens! Initial Farm Offerings (new token launch model pioneered by NorSwap), NFTs, and more, on a platform you can trust.",
+		"url": "https://norswap.io/"
+	},
+	{
+		"author": "EveriFoxWallet",
+		"id": "EveriFoxWallet",
+		"title": "EveriFoxWallet",
+		"logo": "https://nordekscan.com/static/logo_EveriFoxWallet.png",
+		"categories": ["Wallet"],
+		"shortDescription": "wallet.nordekscan.com (NRK) is a free, client-side interface for generating Nordek Chain wallets & more. Interact with the Nordek Chain blockchain easily & securely.",
+		"site": "https://wallet.nordekscan.com",
+		"external": true,
+		"description": "allet.nordekscan.com (NRK) is a free, client-side interface for generating Nordek Chain wallets & more. Interact with the Nordek Chain blockchain easily & securely.",
+		"url": "https://wallet.nordekscan.com"
+	}
+]
