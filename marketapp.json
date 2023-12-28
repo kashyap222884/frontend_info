@@ -1,26 +1,14 @@
 [
 	{
-		"author": "NorSwap",
-		"id": "norswap",
-		"title": "NorSwap",
-		"logo": "https://nordekscan.com/static/NSWAP.png",
-		"categories": ["DeFi"],
-		"shortDescription": "The most popular AMM on NRK by user count! Earn NSWAP through yield farming or win it in the Lottery, then stake it in Syrup Pools to earn more tokens! Initial Farm Offerings (new token launch model pioneered by NorSwap), NFTs, and more, on a platform you can trust.",
+		"author": "Norpay",
+		"id": "norpay",
+		"title": "Norpay",
+		"logo": "https://assets-global.website-files.com/643261fb7173fa66c0d43a5d/652cfa8722cb084867550d8c_NORPAY%20LOGO%20(1).svg",
+		"categories": ["Payments"],
+		"shortDescription": "Borderless payments and multiple ways to spend for the global community through Norpay Crypto Debit Card. Easy to use with multiple regional language support to spend Crypto and Fiat directly with merchants who accept Visa & MasterCard.",
 		"site": "https://norswap.io/",
 		"external": true,
-		"description": "The most popular AMM on NRK by user count! Earn NSWAP through yield farming or win it in the Lottery, then stake it in Syrup Pools to earn more tokens! Initial Farm Offerings (new token launch model pioneered by NorSwap), NFTs, and more, on a platform you can trust.",
-		"url": "https://norswap.io/"
+		"description": "Borderless payments and multiple ways to spend for the global community through Norpay Crypto Debit Card. Easy to use with multiple regional language support to spend Crypto and Fiat directly with merchants who accept Visa & MasterCard",
+		"url": "https://norpay.io/"
 	},
-	{
-		"author": "EveriFoxWallet",
-		"id": "EveriFoxWallet",
-		"title": "EveriFoxWallet",
-		"logo": "https://nordekscan.com/static/logo_EveriFoxWallet.png",
-		"categories": ["Wallet"],
-		"shortDescription": "wallet.nordekscan.com (NRK) is a free, client-side interface for generating Nordek Chain wallets & more. Interact with the Nordek Chain blockchain easily & securely.",
-		"site": "https://wallet.nordekscan.com",
-		"external": true,
-		"description": "allet.nordekscan.com (NRK) is a free, client-side interface for generating Nordek Chain wallets & more. Interact with the Nordek Chain blockchain easily & securely.",
-		"url": "https://wallet.nordekscan.com"
-	}
-]
+	
