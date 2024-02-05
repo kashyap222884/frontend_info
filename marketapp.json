@@ -22,5 +22,17 @@
 		"external": true,
 		"description": "allet.nordekscan.com (NRK) is a free, client-side interface for generating Nordek Chain wallets & more. Interact with the Nordek Chain blockchain easily & securely.",
 		"url": "https://wallet.nordekscan.com"
+	},
+	{
+		"author": "Norpay",
+		"id": "Norpay",
+		"title": "Norpay",
+		"logo": "https://x.norpay.io/img/logo.svg",
+		"categories": ["Wallet"],
+		"shortDescription": "Norpay",
+		"site": "https://x.norpay.io/",
+		"external": true,
+		"description": "Norpay",
+		"url": "https://x.norpay.io/"
 	}
 ]
