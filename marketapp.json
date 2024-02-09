@@ -1,16 +1,16 @@
 [
 	
 	{
-		"author": "EveriFoxWallet",
-		"id": "EveriFoxWallet",
-		"title": "EveriFoxWallet",
-		"logo": "https://nordekscan.com/static/logo_EveriFoxWallet.png",
-		"categories": ["Wallet"],
-		"shortDescription": "wallet.nordekscan.com (NRK) is a free, client-side interface for generating Nordek Chain wallets & more. Interact with the Nordek Chain blockchain easily & securely.",
-		"site": "https://wallet.nordekscan.com",
+		"author": "DEFI",
+		"id": "DEFI",
+		"title": "DEFI",
+		"logo": "https://assets-global.website-files.com/64257cf27c31852a08e9fb9d/64af852d2fb7788f6d2c71d8_coin-front-mk.png",
+		"categories": ["DEFI"],
+		"shortDescription": "Swap, earn, vote, and more with hundreds of DeFi apps, integrations, and tools built on the NORDEK Blockchain. Interact with the Nordek Chain blockchain easily & securely.",
+		"site": "https://defi.nordek.io",
 		"external": true,
-		"description": "allet.nordekscan.com (NRK) is a free, client-side interface for generating Nordek Chain wallets & more. Interact with the Nordek Chain blockchain easily & securely.",
-		"url": "https://wallet.nordekscan.com"
+		"description": "DEFI.NORDEK-EXPLORE THE NORDEK BLOCkCHAIN ECOSYSTEM.",
+		"url": "https://defi.nordek.io"
 	},
 	{
 		"author": "Norpay",
