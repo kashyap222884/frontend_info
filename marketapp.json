@@ -35,5 +35,53 @@
 		"external": true,
 		"description": "Seamless and user-friendly launchpad on the NORDEK Blockchain, enabling out-of-the-box projects to raise capital from the vast community, while the community benefitting from early-stage prices for highly vetted projects.",
 		"url": "https://plutopad.com/"
+	},
+	{
+		"author": "FastPay",
+		"id": "FastPay",
+		"title": "FastPay",
+		"logo": "https://drive.google.com/file/d/1Nhv2hI7VbL_Daf91AVWbW060Bmf5vc0j/view?usp=sharing",
+		"categories": ["CeDeFi"],
+		"shortDescription": "Unlock limitless possibilities with your preferred rates and trade NRK or SNT with motivation towards",
+		"site": "https://fastpay.world/",
+		"external": true,
+		"description": "Unlock limitless possibilities with your preferred rates and trade NRK or SNT with motivation towards.",
+		"url": "https://fastpay.world/"
+	},
+	{
+		"author": "PlayTrade",
+		"id": "PlayTrade",
+		"title": "PlayTrade",
+		"logo": "https://drive.google.com/file/d/1Nhv2hI7VbL_Daf91AVWbW060Bmf5vc0j/view?usp=sharing",
+		"categories": ["Gaming"],
+		"shortDescription": "The ultimate destination for gaming and trading enthusiasts. Our platform combines the thrill of gaming with the excitement of trading, creating a unique and rewarding experience for our users..",
+		"site": "https://fastpay.world/",
+		"external": true,
+		"description": "The ultimate destination for gaming and trading enthusiasts. Our platform combines the thrill of gaming with the excitement of trading, creating a unique and rewarding experience for our users..",
+		"url": "https://fastpay.world/"	
+	},
+	{
+		"author": "NextBanka",
+		"id": "NextBanka",
+		"title": "NextBanka",
+		"logo": "https://drive.google.com/file/d/1Nhv2hI7VbL_Daf91AVWbW060Bmf5vc0j/view?usp=sharing",
+		"categories": ["CeDeFi"],
+		"shortDescription": "Your special 5-digit ID is not just an NFT; it's your wallet too! Exchange crypto to fiat currencies in seconds with ease!.",
+		"site": "https://nextbanka.io/",
+		"external": true,
+		"description": "Your special 5-digit ID is not just an NFT; it's your wallet too! Exchange crypto to fiat currencies in seconds with ease!.",
+		"url": "https://nextbanka.io/"		
+	},
+	{
+		"author": "TapPay",
+		"id": "TapPay",
+		"title": "TapPay",
+		"logo": "https://drive.google.com/file/d/1Nhv2hI7VbL_Daf91AVWbW060Bmf5vc0j/view?usp=sharing",
+		"categories": ["CeDeFi"],
+		"shortDescription": "Revolutionize Your Finances with TapPay. Make daily payments, manage settlements, track transactions & more all via TapPay..",
+		"site": "https://tappay.nordek.io/",
+		"external": true,
+		"description": "Revolutionize Your Finances with TapPay. Make daily payments, manage settlements, track transactions & more all via TapPay..",
+		"url": "https://tappay.nordek.io/"		
 	}
 ]
