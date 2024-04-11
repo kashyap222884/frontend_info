@@ -83,5 +83,18 @@
 		"external": true,
 		"description": "Revolutionize Your Finances with TapPay. Make daily payments, manage settlements, track transactions & more all via TapPay..",
 		"url": "https://tappay.nordek.io/"		
+	},
+	{
+		"author": "NorFlix",
+		"id": "NorFlix",
+		"title": "NorFlix",
+		"logo": "https://drive.google.com/file/d/1Nhv2hI7VbL_Daf91AVWbW060Bmf5vc0j/view?usp=sharing",
+		"categories": ["CeDeFi"],
+		"shortDescription": "All in one Web3 digital reward platform.",
+		"site": "https://norflix.io/",
+		"external": true,
+		"description": "All in one Web3 digital reward platform.",
+		"url": "https://norflix.io/"
 	}
+	
 ]
