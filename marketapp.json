@@ -3,7 +3,7 @@
 	{
 		"author": "DEFI",
 		"id": "DEFI",
-		"title": "DEFI",
+		"title": "NORDEK DeFi",
 		"logo": "https://assets-global.website-files.com/64257cf27c31852a08e9fb9d/64af852d2fb7788f6d2c71d8_coin-front-mk.png",
 		"categories": ["DeFi"],
 		"shortDescription": "Swap, earn, vote, and more with hundreds of DeFi apps, integrations, and tools built on the NORDEK Blockchain. Interact with the Nordek Chain blockchain easily & securely.",
@@ -94,6 +94,18 @@
 		"site": "https://norflix.io/",
 		"external": true,
 		"description": "All in one Web3 digital reward platform.",
+		"url": "https://norflix.io/"
+	},
+	{
+		"author": "rover finance",
+		"id": "Rover Finance",
+		"title": "Rover Finance",
+		"logo": "https://assets-global.website-files.com/64c24833e7b1addd2272198d/64c24afdbaea6378ed77a2c7_rover_logo.svg",
+		"categories": ["CeDeFi"],
+		"shortDescription": "All in one Web3 digital reward platform.",
+		"site": "https://norflix.io/",
+		"external": true,
+		"description": "Seamless Crypto Payments Protocol For Web3.",
 		"url": "https://norflix.io/"
 	}
 	
